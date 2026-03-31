@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZelenBo</string>
+    <string name="app_name_short">ZB</string>
+
+    <string name="dashboard_title">Панель</string>
+    <string name="services_title">Сервисы</string>
+    <string name="settings_title">Настройки</string>
+    <string name="logs_title">Логи</string>
+    <string name="about_title">О приложении</string>
+
+    <string name="vpn_start">Включить</string>
+    <string name="vpn_stop">Выключить</string>
+    <string name="vpn_status_connected">Подключено</string>
+    <string name="vpn_status_disconnected">Отключено</string>
+    <string name="vpn_status_connecting">Подключение…</string>
+
+    <string name="status_hint">Состояние VPN</string>
+
+    <string name="action_save">Сохранить</string>
+    <string name="action_cancel">Отмена</string>
+    <string name="action_export">Экспорт</string>
+    <string name="action_import">Импорт</string>
+    <string name="action_reset">Сброс</string>
+
+    <string name="settings_dns_title">DNS</string>
+    <string name="settings_dns_upstream">Провайдер DoH/DoT</string>
+    <string name="settings_dns_custom_endpoint">Кастомный endpoint</string>
+    <string name="settings_dns_custom_placeholder">Например: https://dns.example/dns-query</string>
+    <string name="settings_dns_allowlist_title">Разрешенные домены</string>
+    <string name="settings_dns_allowlist_add_hint">Добавить домен (enter)</string>
+
+    <string name="settings_transport_title">Транспорт/Прокси</string>
+    <string name="settings_transport_proxy_mode">Режим прокси</string>
+
+    <string name="settings_best_effort_title">Доп. оптимизации</string>
+    <string name="settings_tls_fragmentation">TLS-фрагментация (best-effort)</string>
+    <string name="settings_tcp_desync">TCP Desync (best-effort)</string>
+    <string name="settings_ech">ECH (best-effort)</string>
+
+    <string name="logs_filter_info">Info</string>
+    <string name="logs_filter_warning">Warning</string>
+    <string name="logs_filter_error">Error</string>
+
+    <string name="about_description">
+        ZelenBo улучшает доступ к популярным сервисам через локальные DNS/прокси и VPN-перехват трафика.
+    </string>
+    <string name="about_github">GitHub</string>
+    <string name="about_license">Лицензия</string>
+
+    <string name="toast_import_success">Импорт выполнен</string>
+    <string name="toast_import_error">Ошибка импорта: неверный формат</string>
+    <string name="toast_export_ready">Конфигурация подготовлена</string>
+
+    <string name="error_generic">Произошла ошибка</string>
+    <string name="error_invalid_endpoint">Некорректный endpoint</string>
+</resources>
+

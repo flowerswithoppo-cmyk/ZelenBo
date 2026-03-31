@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZelenBo</string>
+    <string name="app_name_short">ZB</string>
+
+    <string name="dashboard_title">Dashboard</string>
+    <string name="services_title">Services</string>
+    <string name="settings_title">Settings</string>
+    <string name="logs_title">Logs</string>
+    <string name="about_title">About</string>
+
+    <string name="vpn_start">Enable</string>
+    <string name="vpn_stop">Disable</string>
+    <string name="vpn_status_connected">Connected</string>
+    <string name="vpn_status_disconnected">Disconnected</string>
+    <string name="vpn_status_connecting">Connecting…</string>
+
+    <string name="status_hint">VPN status</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_export">Export</string>
+    <string name="action_import">Import</string>
+    <string name="action_reset">Reset</string>
+
+    <string name="settings_dns_title">DNS</string>
+    <string name="settings_dns_upstream">DoH/DoT Provider</string>
+    <string name="settings_dns_custom_endpoint">Custom endpoint</string>
+    <string name="settings_dns_custom_placeholder">For example: https://dns.example/dns-query</string>
+    <string name="settings_dns_allowlist_title">Allowed domains</string>
+    <string name="settings_dns_allowlist_add_hint">Add domain (enter)</string>
+
+    <string name="settings_transport_title">Transport/Proxy</string>
+    <string name="settings_transport_proxy_mode">Proxy mode</string>
+
+    <string name="settings_best_effort_title">Extra optimizations</string>
+    <string name="settings_tls_fragmentation">TLS fragmentation (best-effort)</string>
+    <string name="settings_tcp_desync">TCP Desync (best-effort)</string>
+    <string name="settings_ech">ECH (best-effort)</string>
+
+    <string name="logs_filter_info">Info</string>
+    <string name="logs_filter_warning">Warning</string>
+    <string name="logs_filter_error">Error</string>
+
+    <string name="about_description">
+        ZelenBo improves access to popular services using local DNS/proxy and VPN-based traffic interception.
+    </string>
+    <string name="about_github">GitHub</string>
+    <string name="about_license">License</string>
+
+    <string name="toast_import_success">Import completed</string>
+    <string name="toast_import_error">Import error: invalid format</string>
+    <string name="toast_export_ready">Configuration prepared</string>
+
+    <string name="error_generic">Something went wrong</string>
+    <string name="error_invalid_endpoint">Invalid endpoint</string>
+</resources>
+
